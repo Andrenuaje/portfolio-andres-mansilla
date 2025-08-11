@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fbff00;
+}
+
+body{
+    background-image: url(../img/pexels-markusspiske-225250.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+header{
+    background-color: rgb(64, 64, 243) ;
+    padding: 20px;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+
+.imagen1{
+    background-color:#0a164e ;
+    border-radius: 20px;
+    margin-right: 750px;
+    margin-top: 50px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.imagen2{
+    background-color: #0a164e;
+    border-radius: 20px;
+    margin-right: 750px;
+    margin-top: 80px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.imagen3{
+    background-color:#0a164e ;
+    border-radius: 20px;
+    margin-right: 750px;
+    margin-top: 80px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+img{
+    
+    width: 80vh;
+    height: 40vh;
+}
+
+button{
+    padding: 15px;
+    background-color:#fbff00 ;
+    cursor: pointer;
+    border-radius: 50px;
+    border-color: rgb(54, 54, 248);
+    border-style: ridge;
+    border-width: 5px;
+    margin-top: 10px;
+    color: black;
+    
+}
+
+button:hover{
+    transform: scale(1.2);
+    
+}
+
+footer{
+    background-color: rgb(64, 64, 243) ;
+    padding: 20px;
+}

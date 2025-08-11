@@ -1,0 +1,65 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.inicio{
+    background-color:#0A174E;
+    color: #F5D042;
+    padding: 30px;
+}
+
+.medio{
+    background-image:url(../img/pexels-nemuel-6424587.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    text-align: center;
+    color: #F5D042;
+}
+.formulario{
+    padding: 20px;
+    margin-top: 40px;
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+
+input{
+    padding: 0px;
+    background-color:white;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: #F5D042;
+    border-width: 3px;
+
+}
+input:hover{
+    padding: 10px;
+    background-color: #0A174E;
+    color: #F5D042;
+}
+
+button{
+    padding: 15px;
+    margin-top: 20px;
+    background-color: #0A174E;
+    color: #F5D042;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: #F5D042;
+    cursor: pointer;
+}
+button:hover{
+    padding: 25px;
+   background-color: #052bd4;
+}
+
+
+.final{
+    background-color:#0A174E;
+    color: #F5D042;
+    padding: 20px;
+    text-align: center;
+}
