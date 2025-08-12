@@ -3,6 +3,7 @@
     padding: 0px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #fbff00;
+     flex-wrap: wrap;
 }
 
 body{
@@ -33,7 +34,6 @@ header{
     padding: 20px;
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
     
     
 }
@@ -45,7 +45,7 @@ header{
     padding: 20px;
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
+    
 }
 .imagen3{
     background-color:#0a164e ;
@@ -55,7 +55,7 @@ header{
     padding: 20px;
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
+   
 }
 img{
     
